@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @jasonethicseo
 - 👀 I’m interested in Automation of Cloud Infrastructure.
-- 🌱 I’m currently learning how to automate cloud infrastructure using Infrastructure as Code (Terraform), implement CI/CD pipelines with GitHub Actions and GitLab, and manage Kubernetes environments such as EKS on AWS and AKS on Azure.
+- 🌱 Currently learning:
+ - Infrastructure as Code (Terraform)
+ - CI/CD pipelines with GitHub Actions and GitLab
+ - Kubernetes environments such as EKS (AWS) and AKS (Azure)
+ 🚀 Always exploring ways to build scalable, reliable, and automated cloud systems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
